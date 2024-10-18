@@ -1,1 +1,1 @@
-# freecad_lab_migration
+R Lab migration Module for FOSSEE, IIT Bombay written for Drupal 7

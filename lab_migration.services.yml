@@ -1,0 +1,4 @@
+
+services:
+  lab_migration_global:
+    class: '\Drupal\lab_migration\Service\LabMigrationGlobalfunction'
